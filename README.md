@@ -24,6 +24,7 @@ You will also need the Android build support and [Google Cardboard SDK](https://
 If you wish to use this project clone it and open it using the correct version of Unity. 
 
 ## Usage
+Feel free to use this project however you wish. You may adapt or change 
 
 ## More Information
 
@@ -31,7 +32,7 @@ Visit our website for more information about the [PONToon Project](https://www.p
 
 ## Contributing
 
-This project is not open to contribution at this time, however feel free to clone the project and use it in any way permitted in the lisence. 
+This project is not open to contribution at this time, however feel free to clone the project and use it in any way permitted in the license. 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/) or whichever license we choose 
