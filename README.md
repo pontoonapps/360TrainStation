@@ -1,11 +1,17 @@
-<p align="center">
-  <img src="interregLogo.png" width="350" title="Interreg Logo">
-</p>
-
 # 360TrainStation
 360 Train Station is a Google Cardboard application which is an informative 360 photo viewer of train station images. 
 This project was creating for the PONToon Project at the University of Portsmouth using the Unity Game Engine and 
 The PONToon Project is an Interreg funded project 
+
+<p align="center">
+  <img src="interregLogo.png" width="400" title="Interreg Logo">
+</p>
+## PONToon Project
+PONToon is an exciting project that will use a range of new and developing technologies such as games development, 3D/virtual reality, social media and web/mobile apps to engage, support and up-skill women in order to aid their employment opportunities.
+
+The project is centred around community development, social and economic inclusion and equality. It aims to produce a method of working that's not only scalable and transferrable but also applicable to broader demographic sets and geographical regions for continuing impact.
+
+PONToon will employ digital tools and methods to provide equal access to training and employment services in response to the digital skills shortage existing across all sectors of work. PONToon will provide a more flexible approach to existing training/employment services increasing efficiency and quality due to the dual effect of the toolkit enhancing both technical digital skills and core competencies for employment.
 
 ```bash
 Budget received from the France (Channel) England Programme: €4 million ERDF
@@ -39,4 +45,4 @@ Visit our website for more information about the [PONToon Project](https://www.p
 This project is not open to contribution at this time, however feel free to clone the project and use it in any way permitted in the license. 
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/) or whichever license we choose 
+360 Train Station is availible under the [MIT](https://choosealicense.com/licenses/mit/) license.
