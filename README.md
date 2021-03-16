@@ -6,6 +6,7 @@ The PONToon Project is an Interreg funded project
 <p align="center">
   <img src="interregLogo.png" width="400" title="Interreg Logo">
 </p>
+
 ## PONToon Project
 PONToon is an exciting project that will use a range of new and developing technologies such as games development, 3D/virtual reality, social media and web/mobile apps to engage, support and up-skill women in order to aid their employment opportunities.
 
@@ -24,7 +25,7 @@ Project Duration: 3.5 years
 [Unity Engine](https://unity3d.com/get-unity/download/archive) is required to run the 360 Train Station.
 
 ```bash
-Unity version: 2018.4.22f1 (find actual version) 
+Unity version: 2018.4.22f1 
 Platforms    : Windows, Android, Google Cardboard
 ```
 You will also need the Android build support and [Google Cardboard SDK](https://developers.google.com/vr/develop/unity/get-started-android).
