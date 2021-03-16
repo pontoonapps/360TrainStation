@@ -1,7 +1,6 @@
 # 360TrainStation
 360 Train Station is a Google Cardboard application which is an informative 360 photo viewer of train station images. 
 This project was creating for the PONToon Project at the University of Portsmouth using the Unity Game Engine and 
-The PONToon Project is an Interreg funded project 
 
 <p align="center">
   <img src="interregLogo.png" width="400" title="Interreg Logo">
@@ -35,7 +34,7 @@ You will also need the Android build support and [Google Cardboard SDK](https://
 If you wish to use this project clone it and open it using the correct version of Unity. 
 
 ## Usage
-Feel free to use this project however you wish. You may adapt or change 
+Feel free to use this project however you wish.
 
 ## More Information
 
